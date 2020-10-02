@@ -1,3 +1,5 @@
-Dit is een fantastische feature 1
+Feature: Mijn beste feature ooit
 
-Dit is 2e regel is toegevoegd.
+In order to perform task
+as a user
+I want to be helped in a cool way
